@@ -1,6 +1,4 @@
-# My Responsive Website
-
-Welcome to the repository for my responsive website built using HTML, CSS, Bootstrap, and Flexbox. This project showcases a modern, mobile-friendly design with a Bootstrap navbar, carousel, and responsive layout.
+Developed a responsive website using HTML, CSS, Bootstrap, and Flexbox, showcasing expertise in modern web design principles. Implemented a mobile-first approach with a Bootstrap navbar, interactive carousel, and fully responsive layout, ensuring optimal performance and user experience across various devices.
 
 ## Features
 
